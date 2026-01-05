@@ -1,2 +1,10 @@
-# YADIIII-RECON
- ---  ## 🎤 Viva / Teacher ke liye FINAL LINE 🔥 Ye bol diya to game over:  > “Sir, the tool is modular, hosted on GitHub, and packaged using setup.py so users can install it once and run it as a system command on Kali Linux.”  ---  ## ✅ Final checklist (haan/no me jawab de) 1️⃣ `setup.py` bana li?   2️⃣ `start()` function ready hai?   3️⃣ GitHub repo create ho gaya?    Agar bolega, main: - ✅ tera **setup.py verify** - ✅ **entry point test** - ✅ **GitHub push steps** - ✅ **Kali Linux test commands**  sab **one-shot** me karwa dunga 😎💻
+## Cyber Ultra Scanner
+
+Python-based information gathering and weak-point identification tool.
+
+### Installation (Kali Linux)
+```bash
+git clone https://github.com/USERNAME/cyber-ultra-scanner.git
+cd cyber-ultra-scanner
+pip3 install -r backend/requirements.txt
+sudo pip3 install .
